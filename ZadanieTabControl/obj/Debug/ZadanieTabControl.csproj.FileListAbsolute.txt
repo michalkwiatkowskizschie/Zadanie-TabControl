@@ -1,0 +1,15 @@
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\ZadanieTabControl.csproj.AssemblyReference.cache
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\MainWindow.g.cs
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\App.g.cs
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\ZadanieTabControl_MarkupCompile.cache
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\ZadanieTabControl_MarkupCompile.lref
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\bin\Debug\ZadanieTabControl.exe.config
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\bin\Debug\ZadanieTabControl.exe
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\bin\Debug\ZadanieTabControl.pdb
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\MainWindow.baml
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\ZadanieTabControl.g.resources
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\ZadanieTabControl.Properties.Resources.resources
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\ZadanieTabControl.csproj.GenerateResource.cache
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\ZadanieTabControl.csproj.CoreCompileInputs.cache
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\ZadanieTabControl.exe
+C:\Users\mkash\source\repos\ZadanieTabControl\ZadanieTabControl\obj\Debug\ZadanieTabControl.pdb
